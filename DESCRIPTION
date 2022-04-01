@@ -12,7 +12,7 @@ Encoding: UTF-8
 Depends:
     plyr (>= 1.8.6),
     dplyr (>= 1.0.3),
-    R (>= 4.1)
+    R (>= 3.6)
 URL: https://github.com/J0bbie/R2CPCT/
 BugReports: https://github.com/J0bbie/R2CPCT/issues
 Imports:
